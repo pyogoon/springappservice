@@ -8,7 +8,7 @@ public class WebRestController {
 	
 	@GetMapping("/hello")
 	public String hello() {
-		return "Helloworld";
+		return "Helloworld new";
 	}
 
 }
